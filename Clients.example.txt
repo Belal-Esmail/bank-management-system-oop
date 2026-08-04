@@ -1,0 +1,2 @@
+John#//#Smith#//#john.smith@example.com#//#555-0101#//#A1001#//#1234#//#5000.000000
+Sarah#//#Johnson#//#sarah.johnson@example.com#//#555-0102#//#A1002#//#5678#//#3500.000000

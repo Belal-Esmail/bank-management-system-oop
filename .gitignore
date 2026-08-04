@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build directories
+ARM64/
+Debug/
+Release/
+x64/
+x86/
+
+# Compiled and generated files
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.ipch
+*.tlog
+*.lastbuildstate
+*.idb
+*.pch
+*.recipe
+*.log
+
+# Local application data and activity logs
+Clients.txt
+Users.txt
+TransferLog.txt
+LoginRegister.txt
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+._*
