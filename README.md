@@ -45,8 +45,11 @@ examples/                      Small usage examples
    - `LoginRegister.example.txt` to `LoginRegister.txt`
 3. Build and run the project.
 4. Use the sample administrator account:
+
    - Username: `Admin`
    - Password: `Admin1234`
+
+   > Demo credentials for educational and testing purposes only.
 
 `Currencies.txt` contains the currency data used by the exchange screens.
 
