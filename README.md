@@ -22,6 +22,14 @@ A console-based banking system written in C++ to demonstrate object-oriented pro
 - Method overloading and reusable components
 - Separation between business logic and interface screens
 
+## Design Highlights
+
+- Organized the system into reusable classes with separate responsibilities for clients, users, transactions, currencies, and screens.
+- Used inheritance to share common behavior across related classes and application screens.
+- Implemented role-based permissions using bit flags to control access to system features.
+- Used file-based persistence for clients, users, transaction logs, and login activity.
+- Separated business logic from the console interface to keep the code easier to maintain and extend.
+  
 ## Project Structure
 
 ```text
